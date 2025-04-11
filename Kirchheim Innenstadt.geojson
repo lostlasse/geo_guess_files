@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Innenstadt Kirchheim unter Teck"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.447,
+              48.645
+            ],
+            [
+              9.455,
+              48.645
+            ],
+            [
+              9.455,
+              48.651
+            ],
+            [
+              9.447,
+              48.651
+            ],
+            [
+              9.447,
+              48.645
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
