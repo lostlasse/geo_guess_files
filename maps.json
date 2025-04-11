@@ -23,8 +23,8 @@
         "en": ""
       },
       "author": "lasse",
-      "imageUrl": "https://images.unsplash.com/photo-1599833975787-5c143f373c30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
-      "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/unesco.geojson",
+      "imageUrl": "https://github.com/lostlasse/geo_guess_files/blob/main/kh_in.jpg?raw=true",
+      "url": "https://raw.githubusercontent.com/lostlasse/geo_guess_files/refs/heads/main/Kirchheim%20Innenstadt.geojson",
       "id": "kh_in"
     },
     {
@@ -50,8 +50,8 @@
         "en": ""
       },
       "author": "lasse",
-      "imageUrl": "https://images.unsplash.com/photo-1599833975787-5c143f373c30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
-      "url": "https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/maps/unesco.geojson",
+      "imageUrl": "https://github.com/lostlasse/geo_guess_files/blob/main/kh_um.jpg?raw=true",
+      "url": "https://raw.githubusercontent.com/lostlasse/geo_guess_files/refs/heads/main/Kirchheim%20und%20Umgebung.geojson",
       "id": "kh_um"
     },
     {
